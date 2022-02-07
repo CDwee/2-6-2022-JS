@@ -63,3 +63,5 @@ for (let i = 0; i < bills.length; i++) {
 console.log(bills, tips, totals);
 
 // ended at 6:00 2-6-2022
+
+// Started at 9:10 2-6-2022
